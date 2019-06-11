@@ -1,35 +1,15 @@
 {
-  "name": "web-components-boilerplate",
-  "version": "1.0.0",
+  "name": "routerelements",
+  "version": "0.5.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server --config ./webpack.config.js --mode development --open",
-    "build": "webpack --mode production"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seanmclem/web-components-boilerplate.git"
+    "url": "git+https://github.com/Seanmclem/router-elements.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "seanmclem",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/seanmclem/web-components-boilerplate/issues"
+    "url": "https://github.com/seanmclem/router-elements/issues"
   },
-  "homepage": "https://github.com/seanmclem/web-components-boilerplate#readme",
-  "dependencies": {
-    "@babel/plugin-proposal-class-properties": "^7.4.4",
-    "lodash": "^4.17.11"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.4.4",
-    "@babel/preset-env": "^7.4.4",
-    "babel-loader": "^8.0.6",
-    "babel-plugin-transform-class-properties": "^6.24.1",
-    "webpack": "^4.32.0",
-    "webpack-cli": "^3.3.2",
-    "webpack-dev-server": "^3.4.1",
-    "html-webpack-plugin": "^3.2.0"
-  }
+  "homepage": "https://github.com/seanmclem/router-elements#readme"
 }
