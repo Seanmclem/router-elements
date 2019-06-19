@@ -5,7 +5,7 @@ A collection of Web Components for providing SPA routing functionality to a plai
 
 ## Getting Started
 
-You should be using a component-based vanilla JS. I have a boiler-plate project here which already uses the npm module and provides an example of its implementation. 
+You should be using a component-based vanilla JS. I have a boiler-plate project [here](https://github.com/Seanmclem/Web-Component-Dev-Environment) which already uses the npm module and provides an example of its implementation. 
 
 ## Installing
 
